@@ -1,12 +1,12 @@
 # Zapiska
 ### A note taking app. 📝
 ![preview](.github/preview.png)<br>
->PT-BR
+>PT-BR<br>
 Descubra praticidade na criação de anotações com Zapiska. Salve links, atribua tags e pesquise rapidamente entre suas notas em uma dashboard organizada. Mantenha-se facilmente atualizado com suas notas usando tags e desfrute de uma visualização clara de todas as suas anotações em sua dashboard. Experimente uma organização eficiente como nunca antes.<br>
 🧰 [Ver o backend](https://github.com/mariak-fla/zapiska-api)
 🔗 [Clique aqui para ver o site!](https://zapiska.netlify.app)
 
->EN-US
+>EN-US<br>
 Discover streamlined note-taking with Zapiska. Save links, tag notes, and swiftly search through your organized database. Effortlessly stay on top of your notes using tags and enjoy a clear dashboard view of all your entries. Experience efficient note management like never before.<br>
 🧰 [See backend](https://github.com/mariak-fla/zapiska-api)
 🔗 [See the website live!](https://zapiska.netlify.app)
